@@ -1,6 +1,6 @@
 {
   "name": "Md Maherukh Ajmal",
-  "description": "Software Engineer 1 @MAQ Software",
+  "description": "Software Engineer 1 @ MAQ Software",
   "image_url": "https://media.licdn.com/dms/image/C4D03AQFdiou32X9GEg/profile-displayphoto-shrink_800_800/0/1618909442362?e=1680134400&v=beta&t=pc40LWwmiqsNDoIChHNgmuXKPVCVoGxMJCt8SCtAGGw",
   "links": [
     {
@@ -22,6 +22,11 @@
       "title": "Polywork",
       "url": "https://www.polywork.com/maherukh",
       "icon": "link"
+    },
+    {
+      "title": "Buy me a coffee",
+      "url": "https://www.buymeacoffee.com/maherukh",
+      "icon": "mug"
     }
   ]
 }
