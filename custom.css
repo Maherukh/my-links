@@ -21,10 +21,6 @@
     color: #fff;
 }
 
-.ld-pos-rel {
-    background-color: linear-gradient(90deg,#ec008c,#fc6767);
-}
-
 .ld-custom-button-container:hover {
     -webkit-transform: scale(1.02);
     -ms-transform: scale(1.02);
