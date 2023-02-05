@@ -34,6 +34,7 @@
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    background-color: linear-gradient(90deg,#ec008c,#fc6767);
 }
 
 .ld-custom-background-layer {
