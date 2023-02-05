@@ -27,6 +27,11 @@
       "title": "Buy me a coffee",
       "url": "https://www.buymeacoffee.com/maherukh",
       "icon": "mug"
+    },
+    {
+      "title": "Blog",
+      "url": "https://maherukh.hashnode.dev/",
+      "icon": "notebook"
     }
   ]
 }
