@@ -7,6 +7,12 @@
     color: black;
 }
 
+/* code for background being a linear gradient from pink to red */
+.ld-custom-background-layer {
+    background: linear-gradient(90deg,#ec008c,#fc6767);
+}
+
+
 .ld-custom-button-container {
     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
