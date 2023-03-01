@@ -7,11 +7,20 @@
     color: black;
 }
 
-/* code for background being a linear gradient from pink to red */
-.ld-custom-background-layer {
-    background: linear-gradient(90deg,#ec008c,#fc6767);
+/* css code for background to be animated with many colors */
+.ld-custom-background-layer{
+    animation: animateBackground 10s ease infinite;
+    background: linear-gradient(to bottom, #f00, #f90, #ff0, #0f0, #00f, #90f, #f0f, #f00);
 }
 
+@keyframes animateBackground {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 100% 0;
+    }
+}
 
 .ld-custom-button-container {
     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
